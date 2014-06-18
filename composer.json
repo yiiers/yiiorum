@@ -2,7 +2,7 @@
     "name": "yiiers/yiiorum",
     "description": "Fourm for Yii 2 Module",
     "keywords": ["yii2", "forum", "module"],
-    "homepage": "https://github.com/kartik-v/yii2-field-range",
+    "homepage": "https://github.com/yiiers/yiiourm",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
